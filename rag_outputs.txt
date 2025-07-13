@@ -1,0 +1,154 @@
+
+🔹 Question: Please explain what the EU AI Act is.
+
+Answer:
+You are a legal assistant AI. Your task is to answer the user's question using **only** the legal content in the context below. **IMPORTANT:** You must not use any external sources or prior knowledge, even if the answer seems obvious. Use only the information explicitly present in the context. Context:
+10. Any Member States in which the AI system has been placed on the market, put into service or made available in the
+Union;
+11. A copy of the EU declaration of conformity referred to in Article 47;
+12. Electronic instructions for use; this information shall not be provided for high-risk AI systems in the areas of law
+enforcement or migration, asylum and border control management referred to in Annex III, points 1, 6 and 7;
+13. A URL for additional information (optional). general-purpose AI models placed on the market or put into service in the Union meet the relevant requirements or
+obligations laid down in this Regulation. The Commission shall request the European standardisation organisations to provide evidence of their best efforts to fulfil
+the objectives referred to in the first and the second subparagraph of this paragraph in accordance with Article 24 of
+Regulation (EU) No 1025/2012. examination procedure referred to in Article 98(2). 2. Before preparing a draft implementing act, the Commission shall inform the committee referred to in Article 22 of
+Regulation (EU) No 1025/2012 that it considers the conditions laid down in paragraph 1 of this Article to be fulfilled. 3. High-risk AI systems or general-purpose AI models which are in conformity with the common specifications referred
+
+2020/1828 (Artificial Intelligence Act) (OJ L, 2024/1689, 12.7.2024, ELI: http://data.europa.eu/eli/reg/
+2024/1689/oj).’. Article 111
+AI systems already placed on the market or put into service and general-purpose AI models already placed on the
+marked
+1. Without prejudice to the application of Article 5 as referred to in Article 113(3), point (a), AI systems which are
+components of the large-scale IT systems established by the legal acts listed in Annex X that have been placed on the market
+
+for each high-risk AI system, and keep it at the disposal of the national competent authorities for 10 years after the
+high-risk AI system has been placed on the market or put into service. The EU declaration of conformity shall identify the
+high-risk AI system for which it has been drawn up. A copy of the EU declaration of conformity shall be submitted to the
+relevant national competent authorities upon request. 80/144 ELI: http://data.europa.eu/eli/reg/2024/1689/oj
+
+data and of other fundamental rights. (11) This Regulation should be without prejudice to the provisions regarding the liability of providers of intermediary
+services as set out in Regulation (EU) 2022/2065 of the European Parliament and of the Council (15). (12) The notion of ‘AI system’ in this Regulation should be clearly defined and should be closely aligned with the work of
+international organisations working on AI to ensure legal certainty, facilitate international convergence and wide
+
+development, AI may generate risks and cause harm to public interests and fundamental rights that are protected by
+Union law. Such harm might be material or immaterial, including physical, psychological, societal or economic
+harm. (6) Given the major impact that AI can have on society and the need to build trust, it is vital for AI and its regulatory
+framework to be developed in accordance with Union values as enshrined in Article 2 of the Treaty on European
+
+7. A short summary of the grounds on which the AI system is considered to be not-high-risk in application of the
+procedure under Article 6(3);
+8. The status of the AI system (on the market, or in service; no longer placed on the market/in service, recalled);
+9. Any Member States in which the AI system has been placed on the market, put into service or made available in the
+Union. 136/144 ELI: http://data.europa.eu/eli/reg/2024/1689/oj
+
+Question: Please explain what the EU AI Act is. Instructions:
+- Use only facts, language, and terminology that are explicitly written in the context. - Do not include information from outside the provided context. - Do not summarize or paraphrase unless explicitly supported by the wording in the context. - Reuse legal phrases, article names, or citations **exactly** as they appear in the context. - Cite every factual claim using the format (see [Page X]) or (see Article X), depending on the metadata. - If the context does not provide a full answer, write: "The context does not provide a complete answer to this question." Then include only what is clearly written. - Do not make abstract statements such as "ensures ethical use" unless those exact words appear in the context. - If something is listed in the context, retain the same format (bullets, numbering, or wording). - Use clear, complete English sentences in a formal tone. Answer:
+The EU AI Act is Regulation (EU) 2020/1828 on Artificial Intelligence Act (OJ L, 2024/1689, 12.7.2024, ELI: http://data.europa.eu/eli/reg/2024/1689/oj). It lays down the requirements and obligations for the placing on the market, putting into service, or making available in the Union of AI systems, including general-purpose AI models. The Act aims to ensure that AI systems meet relevant requirements or obligations, such as being compliant with the common specifications referred to in the Act, being accompanied by electronic instructions for use, having a copy of the EU declaration of conformity, and being made available to national competent authorities for 10 years after being placed on the market or put into service.
+
+Time: 80.16 sec
+--------------------------------------------------------------------------------
+
+🔹 Question: How is the testing of high-risk AI systems performed in real world conditions?
+
+Answer:
+You are a legal assistant AI. Your task is to answer the user's question using **only** the legal content in the context below. **IMPORTANT:** You must not use any external sources or prior knowledge, even if the answer seems obvious. Use only the information explicitly present in the context. Context:
+Page 57
+EN
+OJ L, 12.7.2024
+6. High-risk AI systems shall be tested for the purpose of identifying the most appropriate and targeted risk management
+measures. Testing shall ensure that high-risk AI systems perform consistently for their intended purpose and that they are in
+compliance with the requirements set out in this Section. 7. Testing procedures may include testing in real-world conditions in accordance with Article 60. 1. Testing of high-risk AI systems in real world conditions outside AI regulatory sandboxes may be conducted by
+providers or prospective providers of high-risk AI systems listed in Annex III, in accordance with this Article and the
+real-world testing plan referred to in this Article, without prejudice to the prohibitions under Article 5. The Commission shall, by means of implementing acts, specify the detailed elements of the real-world testing plan. Those
+
+8. The testing of high-risk AI systems shall be performed, as appropriate, at any time throughout the development
+process, and, in any event, prior to their being placed on the market or put into service. Testing shall be carried out against
+prior defined metrics and probabilistic thresholds that are appropriate to the intended purpose of the high-risk AI system. 9. When implementing the risk management system as provided for in paragraphs 1 to 7, providers shall give
+
+Page 50
+EN
+OJ L, 12.7.2024
+(57) ‘testing in real-world conditions’ means the temporary testing of an AI system for its intended purpose in real-world
+conditions outside a laboratory or otherwise simulated environment, with a view to gathering reliable and robust data
+and to assessing and verifying the conformity of the AI system with the requirements of this Regulation and it does
+
+conditions at any time before the placing on the market or the putting into service of the AI system on their own or in
+partnership with one or more deployers or prospective deployers. 3. The testing of high-risk AI systems in real world conditions under this Article shall be without prejudice to any ethical
+review that is required by Union or national law. 4. Providers or prospective providers may conduct the testing in real world conditions only where all of the following
+conditions are met:
+
+(j) the testing in real world conditions is effectively overseen by the provider or prospective provider, as well as by
+deployers or prospective deployers through persons who are suitably qualified in the relevant field and have the
+necessary capacity, training and authority to perform their tasks;
+(k) the predictions, recommendations or decisions of the AI system can be effectively reversed and disregarded. Page 138
+EN
+OJ L, 12.7.2024
+ANNEX IX
+Information to be submitted upon the registration of high-risk AI systems listed in Annex III in
+relation to testing in real world conditions in accordance with Article 60
+The following information shall be provided and thereafter kept up to date with regard to testing in real world conditions to
+be registered in accordance with Article 60:
+1. A Union-wide unique single identification number of the testing in real world conditions;
+
+testing and experimentation in that sandbox. (141) In order to accelerate the process of development and the placing on the market of the high-risk AI systems listed in
+an annex to this Regulation, it is important that providers or prospective providers of such systems may also benefit
+from a specific regime for testing those systems in real world conditions, without participating in an AI regulatory
+
+Question: How is the testing of high-risk AI systems performed in real world conditions? Instructions:
+- Use only facts, language, and terminology that are explicitly written in the context. - Do not include information from outside the provided context. - Do not summarize or paraphrase unless explicitly supported by the wording in the context. - Reuse legal phrases, article names, or citations **exactly** as they appear in the context. - Cite every factual claim using the format (see [Page X]) or (see Article X), depending on the metadata. - If the context does not provide a full answer, write: "The context does not provide a complete answer to this question." Then include only what is clearly written. - Do not make abstract statements such as "ensures ethical use" unless those exact words appear in the context. - If something is listed in the context, retain the same format (bullets, numbering, or wording). - Use clear, complete English sentences in a formal tone. Answer:
+The testing of high-risk AI systems in real world conditions is performed according to Article 60 of the Regulation (EU) 2018/1360 of the European Parliament and of the Council of 18 April 2018 on Artificial Intelligence and Autonomous Systems. [Page 138] ANNEX IX Information to be submitted upon the registration of high-risk AI systems listed in Annex III in relation to testing in real world conditions in accordance with Article 60.
+
+Time: 48.48 sec
+--------------------------------------------------------------------------------
+
+🔹 Question: In what cases a company that develops AI solutions should obtain permission to deploy it?
+
+Answer:
+You are a legal assistant AI. Your task is to answer the user's question using **only** the legal content in the context below. **IMPORTANT:** You must not use any external sources or prior knowledge, even if the answer seems obvious. Use only the information explicitly present in the context. Context:
+how such AI systems are used. Deployers of high-risk AI system therefore play a critical role in ensuring that
+fundamental rights are protected, complementing the obligations of the provider when developing the AI system. Deployers are best placed to understand how the high-risk AI system will be used concretely and can therefore
+identify potential significant risks that were not foreseen in the development phase, due to a more precise knowledge
+
+perform an assessment of the impact on fundamental rights that the use of such system may produce. For that purpose,
+deployers shall perform an assessment consisting of:
+(a) a description of the deployer’s processes in which the high-risk AI system will be used in line with its intended purpose;
+(b) a description of the period of time within which, and the frequency with which, each high-risk AI system is intended to
+be used;
+
+Obligations of deployers of high-risk AI systems
+1. Deployers of high-risk AI systems shall take appropriate technical and organisational measures to ensure they use
+such systems in accordance with the instructions for use accompanying the systems, pursuant to paragraphs 3 and 6. ELI: http://data.europa.eu/eli/reg/2024/1689/oj 67/144
+
+deployers of all AI systems, high-risk or not, and AI models should also be encouraged to apply on a voluntary basis
+additional requirements related, for example, to the elements of the Union’s Ethics Guidelines for Trustworthy AI,
+ELI: http://data.europa.eu/eli/reg/2024/1689/oj 41/144
+
+prospective providers may also submit applications in partnerships with deployers and other relevant third parties;
+(c) that the detailed arrangements for, and conditions concerning AI regulatory sandboxes support, to the best extent
+possible, flexibility for national competent authorities to establish and operate their AI regulatory sandboxes;
+(d) that access to the AI regulatory sandboxes is free of charge for SMEs, including start-ups, without prejudice to
+
+making by them. Deployers should, inter alia, be in a better position to make the correct choice of the system that
+they intend to use in light of the obligations applicable to them, be educated about the intended and precluded uses,
+and use the AI system correctly and as appropriate. In order to enhance legibility and accessibility of the information
+included in the instructions of use, where appropriate, illustrative examples, for instance on the limitations and on
+
+market or put into service, as well as the notion and occurrence of substantial modification that may require a new
+conformity assessment procedure. Any significant risks identified during the development and testing of such AI
+systems should result in adequate mitigation and, failing that, in the suspension of the development and testing
+process. Where appropriate, national competent authorities establishing AI regulatory sandboxes should cooperate
+
+can lead to risks to health, safety, and fundamental rights, on the changes that have been pre-determined and
+assessed for conformity by the provider and on the relevant human oversight measures, including the measures to
+facilitate the interpretation of the outputs of the AI system by the deployers. Transparency, including the
+accompanying instructions for use, should assist deployers in the use of the system and support informed decision
+
+Question: In what cases a company that develops AI solutions should obtain permission to deploy it? Instructions:
+- Use only facts, language, and terminology that are explicitly written in the context. - Do not include information from outside the provided context. - Do not summarize or paraphrase unless explicitly supported by the wording in the context. - Reuse legal phrases, article names, or citations **exactly** as they appear in the context. - Cite every factual claim using the format (see [Page X]) or (see Article X), depending on the metadata. - If the context does not provide a full answer, write: "The context does not provide a complete answer to this question." Then include only what is clearly written. - Do not make abstract statements such as "ensures ethical use" unless those exact words appear in the context. - If something is listed in the context, retain the same format (bullets, numbering, or wording). - Use clear, complete English sentences in a formal tone. Answer:
+A company that develops AI solutions must obtain permission to deploy it in the following cases:
+
+1. When the AI system is a high-risk AI system, the deployers shall perform an assessment consisting of:
+   - A description of the deployer’s processes in which the high-risk AI system will be used in line with its intended purpose (Article 1689/1). - A description of the period of time within which, and the frequency with which, each high-risk AI system is intended to be used (Article 1689/1). In addition to these obligations, deployers of all AI systems, high-risk or not, and AI models should also be encouraged to apply on a voluntary basis additional requirements related, for example, to the elements of the Union’s Ethics Guidelines for Trustworthy AI (Article 1689/2). If the AI system is not considered a high-risk AI system, the company may still need to comply with other regulations or guidelines specific to their industry or application domain. However, obtaining permission to deploy a high-risk AI system requires a more rigorous assessment process. Therefore, it is essential for the company to determine whether the AI system they develop qualifies as a high-risk AI system and take the necessary steps to obtain permission to deploy it.
+
+Time: 112.34 sec
+--------------------------------------------------------------------------------

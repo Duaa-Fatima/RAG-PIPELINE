@@ -1,0 +1,7 @@
+pdfplumber
+langchain
+faiss-cpu
+transformers
+sentence-transformers
+huggingface_hub
+langchain-community
