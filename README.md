@@ -1,4 +1,3 @@
-# RAG-PIPELINE
 #  RAG Pipeline with Mistral
 
 This project demonstrates a **Retrieval-Augmented Generation (RAG)** system built in Google Colab using the **Mistral language model**. It is designed to answer questions about legal texts using only the information explicitly provided in the source documents.
